@@ -90,7 +90,7 @@ out
 
 # Nuxt.js build / generate output
 .nuxt
-dist
+#dist
 
 # Gatsby files
 .cache/
@@ -143,5 +143,5 @@ dist
 
 # vuepress cache and build directories
 src/.vuepress/.cache
-src/.vuepress/dist
+#src/.vuepress/dist
 src/.vuepress/.temp
