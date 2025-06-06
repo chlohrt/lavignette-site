@@ -4,7 +4,7 @@ import path from "path";
 import theme from "./theme.js";
 
 export default defineUserConfig({
-  base: "/lavignette-site/",
+  base: "/",
   sidebar: false,
   lang: "en-US",
   title: "❦ La Vignette Festival ❦",
