@@ -7,7 +7,7 @@ export default defineUserConfig({
   base: "/lavignette-site/",
   sidebar: false,
   lang: "en-US",
-  title: "❦ La Vignette Festival ⎹ 13 — 15 juin 2025 ❦",
+  title: "❦ La Vignette Festival ❦",
   description: "La Vignette presentation page",
   clientConfigFile: path.resolve(__dirname, "./client/config.ts"),
   head: [
