@@ -34,6 +34,7 @@ highlights:
     description: "L’Apocalypse • Blow Book • Brumeville • CATA • Chloé Holst‑Stepanian • CotCotCot Éditions • Courte Échelle • Du Noir Sous les Ongles • L’Employé·e du moi • En 3000 Éditions • Fémixion • FLOWERSFIELD • FRMK • Gnomus & Zitrance • Guerre Molle • Ice Screen • Labrys Éditions • Mardi Soir • Mélanie Utzmann‑North • Paratoner • Phenicusa Press • Poïjuku Tessy • Poil dans la Main • Que Scay-Je ? • Quintal • Le Sabot • Spectre • Sterput • Les Sukkubes"
 
 
+
 # highlights:
     # image: assets/image/Affiche_La_Vignette_A3_Laser_Fond_Bleu.png
     # features:
