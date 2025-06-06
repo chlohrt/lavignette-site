@@ -12,6 +12,7 @@ export default defineUserConfig({
   clientConfigFile: path.resolve(__dirname, "./client/config.ts"),
   head: [
     ["link", { rel: "preconnect", href: "https://fonts.googleapis.com" }],
+    ["link", { rel: "icon", href: "/assets/image/favicon_vignette.ico" }],
     [
       "link",
       { rel: "preconnect", href: "https://fonts.gstatic.com", crossorigin: "" },

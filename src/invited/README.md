@@ -176,27 +176,27 @@
 
 <div class="exposant-grid">
 
-<a class="exposant-card" href="/assets/image/Publication_Pauline.png" target="_blank">
+<a class="exposant-card" href="./assets/image/Publication_Pauline.png" target="_blank">
   <img src="/assets/image/table_ronde_image.png" alt="Rencontres_Table_Ronde">
   <span>"Table Ronde : S'outiller pour résister"</span>
 </a>
 
-<a class="exposant-card" href="/assets/image/Publication_Femixion.png" target="_blank">
+<a class="exposant-card" href="./assets/image/Publication_Femixion.png" target="_blank">
   <img src="/assets/image/femixion_image_2.png" alt="Rencontres_Femixion">
   <span>Fémixion</span>
 </a>
 
-<a class="exposant-card" href="/assets/image/Publication_Baraka.png" target="_blank">
+<a class="exposant-card" href="./assets/image/Publication_Baraka.png" target="_blank">
   <img src="/assets/image/baraka_image_2.png" alt="Rencontres_Baraka">
   <span>Baraka Grafika</span>
 </a>
 
-<a class="exposant-card" href="/assets/image/Publication_Niko.png" target="_blank">
+<a class="exposant-card" href="./assets/image/Publication_Niko.png" target="_blank">
   <img src="/assets/image/micro_histoire.png" alt="Rencontres_Micro_Histoire">
   <span>Une Micro-Histoire du Fanzine</span>
 </a>
 
-<a class="exposant-card" href="/assets/image/Publication_Bingo.png" target="_blank">
+<a class="exposant-card" href="./assets/image/Publication_Bingo.png" target="_blank">
   <img src="/assets/image/bingo_image_2.png" alt="Rencontres_Bingo">
   <span>Bingo Zine</span>
 </a>

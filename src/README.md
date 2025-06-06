@@ -68,8 +68,6 @@ footer: site built with vuepress hero
 
 
 ::: center
-
-<h4> Contact: <a href="mailto:orgafestival@lavignette.fun" target="_blank"> orgafestival@lavignette.fun</a> </h4>
 :::
 
 <div class="ml-embedded" data-form="MkmBiW"></div>

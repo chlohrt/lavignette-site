@@ -4,15 +4,15 @@ export default sidebar({
   "/": [
     "",
     {
-      text:"Manual",
+      text:"Invitos",
       prefix: "manual/",
-      link: "manual/",
+      link: "invited/",
       children: "structure",
     },
     {
-      text:"Modules",
+      text:"Prog",
       prefix: "modules/",
-      link: "modules/",
+      link: "program/",
       children: "structure",
     },
     

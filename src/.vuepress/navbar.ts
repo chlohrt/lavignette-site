@@ -4,8 +4,8 @@ export default navbar([
   //"/",
   // "/portfolio",
   // "/modules/",
-  "invited/",
-  "program/",
+  { text: "Invitées", link: "/invited/" },
+  { text: "Programme", link: "/program/" },
   // {
   //   text: "Guide",
   //   // icon: "lightbulb",
