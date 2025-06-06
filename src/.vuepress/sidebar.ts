@@ -4,14 +4,14 @@ export default sidebar({
   "/": [
     "",
     {
-      text:"Invitos",
-      prefix: "manual/",
+      text:"Invité·es",
+      prefix: "invited/",
       link: "invited/",
       children: "structure",
     },
     {
-      text:"Prog",
-      prefix: "modules/",
+      text:"Programme",
+      prefix: "program/",
       link: "program/",
       children: "structure",
     },
