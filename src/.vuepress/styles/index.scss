@@ -29,6 +29,12 @@ body {
   font-size: 1.8rem;
 }
 
+@media (max-width: 480px) {
+  .navbar-title {
+    font-size: 1rem;
+  }
+}
+
 .vp-navbar .auto-link{
     color: darkred;
     font-size: 1.5rem;
